@@ -1,5 +1,4 @@
-#your Bot token
-Bot_Token = "ODE2NzI1ODAyODcxMDI5NzYw.YD_JLQ.1kMxVnOSkVbmRAIaJZ6Tfn-txo4"
+
 
 apiserver = "http://157.90.184.184:5000"
 SERVER = "http://157.90.184.181:6001"
